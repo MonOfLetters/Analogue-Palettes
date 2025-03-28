@@ -3,6 +3,8 @@ Analogue Pocket Color Palettes
 
 These are the Analogue Pocket color palettes that are accesible when you play a physical cart on the system. There was not an option to use these when playing on a Gameboy Core. I created these to use on the cores. These include the Mint, Blue, Green, and Purple color palettes available on the system.
 
+The Blue, and Green palettes have more than 4 colors but the cores do not support .pal files yet. The .gbp palette files only use 4 colors. The .pal files are a format specific to the Analogue Pocket, and are currently only supported on real cartridges, no cores have added support. Once the cores do you will see the extra colors the same as you do on a physical cart.
+
 To add these to your Analogue Pocket just grab the .gbp files that you want and add them to the folder: Assets/gb/common/Palettes on your Analogue Pocket's SD card.
 You can updload the .pal file to a palette editing application such as https://simplepalettemaker.streamlit.app/ to edit the palettes to whatever you want!
 
