@@ -10,4 +10,4 @@ You can updload the .bgp/.pal files to a palette editing application such as htt
 
 To download a single file, click the file you want, then click the Raw download button on the right. To download the entire file, click the green Code button and download the zip file.
 
-P.S. These palettes included in the https://github.com/davewongillies/openfpga-palettes/releases/tag/2025-01-27 files.
+P.S. These palettes are now included in the https://github.com/davewongillies/openfpga-palettes/releases/tag/2025-01-27 files.
